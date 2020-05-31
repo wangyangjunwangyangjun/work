@@ -1,0 +1,14 @@
+#friendContent{
+  height: 900px;
+  width: 100%;
+}
+#Content{
+  height: 100%;
+  width: 100%;
+  padding-top: 75px;
+  background: rgb(53,53,53);
+}
+#muRow{
+  width: 100%;
+
+}

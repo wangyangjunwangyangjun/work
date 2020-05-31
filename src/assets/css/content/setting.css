@@ -1,0 +1,19 @@
+.van-nav-bar{
+  background: rgb(60,60,60) !important;
+  color: white !important;
+}
+.van-nav-bar__left{
+  color: white !important;
+}
+.van-nav-bar__title{
+  color: white !important;
+}
+#setting{
+  background: rgb(43,43,43) !important;
+  color: white !important;
+  height: 900px !important;
+}
+.van-cell{
+  background: rgb(60,60,60) !important;
+  color: white !important;
+}

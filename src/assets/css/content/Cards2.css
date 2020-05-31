@@ -1,0 +1,28 @@
+.div1{
+  width: 100%;
+  display: inline-flex;
+  height: 125px;
+  background: #b3d8ff;
+  margin: 5px auto;
+}
+.img{
+  width: 145px;
+  height: 115px;
+  margin: auto 5px;
+}
+.div2{
+  font-size: 0.01rem;
+  color: white;
+  height: 20px;
+  width: 50px;
+  margin-left: 16px;
+}
+.div4{
+  font-weight: bold;
+  margin: 5px 15px;
+}
+.div3{
+  margin:5px 20px;
+  font-size: 0.01rem;
+  color: gray;
+}

@@ -1,0 +1,18 @@
+.myTop{
+  height: 25px;
+  width: 100%;
+  margin: 12px 0;
+  color: white;
+}
+.myLeft{
+  float:left;
+  margin-left: 20px;
+  font-weight: bold;
+  color: white;
+}
+.myRight{
+  float: right;
+  margin-right: 20px;
+  font-weight: bold;
+  color: white;
+}

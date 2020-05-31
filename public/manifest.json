@@ -1,0 +1,15 @@
+{
+  "name": "bilibili",
+  "short_name": "bilibili",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "rgb(255,226,228)",
+  "theme_color": "#4DBA87"
+}

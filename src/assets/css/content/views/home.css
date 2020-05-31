@@ -1,0 +1,8 @@
+.icon-container {
+  display: flex;
+  width: 300px;
+  justify-content: space-around;
+}
+.icon-container .mu-icon {
+  margin-bottom: 12px;
+}

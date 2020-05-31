@@ -1,0 +1,143 @@
+.video {
+  width: 100%;
+  height: 30%;
+}
+.Tab{
+  width: 100%;
+  max-height: 45px;
+  display: inline-flex;
+}
+.vantTab{
+  width: 366px;
+  height: 100%;
+}
+.chatContent{
+  width: 100%;
+  height: 538px;
+  background: rgba(255, 192, 203,0.3);
+  padding:10px 15px;
+  background: rgb(244, 244, 244);
+}
+.subscription{
+  display: inline-flex;
+  width: 92px;
+  line-height: 45px;
+  background: #ff8198;
+  color: white;
+  font-size: x-small;
+}
+.logo{
+  margin: auto;
+  justify-content: center;
+}
+.note{
+  line-height: 20px;
+  padding-right: 8px;
+}
+.BottomInput{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 7%;
+  z-index: 1000;
+  border: black 1px;
+  background: white;
+  display: inline-flex;
+}
+#InputContent{
+  margin: 15px 10px 0 10px;
+  height: 30px;
+  width: 200px;
+  border-radius: 18px;
+  border: 1px solid gray;
+  background: pink;
+}
+#send{
+  z-index: 1000;
+}
+input{
+  background: transparent;
+  padding: 5px 0 10px 15px;
+  border: 0;
+}
+.newDivClass{
+  color: white;
+  background: rgb(255, 93, 143);
+  width: auto;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.float-bar {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  color: #fff;
+  background-color: rgb(54,54,54);
+  height: 45px;
+}
+.float-bar .fa-arrow-left {
+  margin-left: 1rem;
+  margin-top: 0.8rem;
+  margin-right: 3rem;
+  z-index: 99;
+  color: white;
+}
+.float-bar .span {
+  z-index: 99;
+  position: absolute;
+  margin-top: 0.75rem;
+  margin-left: 5rem;
+}
+.float-bar .index {
+  margin-left: -42%;
+  margin-top: 0.76rem;
+}
+#chartContent{
+  width: 100%;
+  height: 100%;
+  background: rgb(244, 244, 244);
+  line-height: 28px;
+}
+#paiZi{
+  border: black 1px;
+  background: pink;
+  margin-left: 2px;
+  padding: 4px;
+  border-radius: 5px;
+  color: white;
+  font-size: xx-small;
+}
+#paiZiLevel{
+  background: white;
+  color: pink;
+  border: black 1px;
+  height: auto;
+  width: auto;
+  margin-left: 0;
+  margin-right: 2px;
+  font-size: xx-small;
+  padding-left: 4px;
+}
+#userLevel{
+  color: pink;
+  background: transparent;
+  width: auto;
+  height: auto;
+  border: pink 1px;
+  font-size: xx-small;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#name{
+  color: grey;
+  font-size: x-small;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#say{
+  color: black;
+  font-size: x-small;
+  width: auto;
+  height: auto;
+  margin-left: 5px;
+}

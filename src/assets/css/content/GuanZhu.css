@@ -1,0 +1,13 @@
+.float-bar {
+  width: 100%;
+  display: flex;
+  color: #fff;
+  background-color: rgb(54,54,54);
+  height: 3rem;
+}
+.float-bar .span {
+  z-index: 99;
+  position: absolute;
+  margin-top: 0.75rem;
+  margin-left: 5rem;
+}

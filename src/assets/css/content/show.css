@@ -1,0 +1,67 @@
+.cards{
+  background: rgb(43, 43, 43);
+  display: inline-flex;
+  width: 100%;
+  flex-wrap: wrap;
+  color: white;
+  font-weight: lighter;
+}
+.showItem{
+  margin:0 auto 7px;
+  background: rgb(55,55,55);
+  padding-left: 8px;
+  border-radius: 5px;
+  padding-right: 8px;
+  padding-bottom: 5px;
+}
+.showImg{
+  text-align: center;
+}
+.Item{
+  width: 187px;
+}
+.showInfo{
+  width: 100%;
+}
+.showTitle{
+  margin-left: 1px;
+  font-weight: lighter;
+  overflow: hidden;
+  height: 35px;
+  width: 100%;
+  display: inline-block;
+  font-size: xx-small;
+}
+.iconPlay{
+  width: 65px;
+  text-align: right;
+  font-weight: lighter;
+}
+.showTag{
+  z-index: 1;
+  top: 112px;
+  left: 7px;
+  position: relative;
+  font-size: xx-small;
+  color: white;
+  opacity: 0.8;
+  font-weight: lighter;
+}
+.showAuthor{
+  width: 120px;
+  font-size: xx-small;
+  font-weight: lighter;
+}
+.showUser{
+  width: 189px;
+  display: flex;
+  font-size: xx-small;
+  font-weight: lighter;
+}
+.myWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+

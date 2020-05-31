@@ -1,0 +1,55 @@
+.header-extra-section{
+  background-size: 100% auto;
+  background: pink 0 100%;
+  background-position-x: 0px;
+  background-position-y: 100%;
+  width: 100%;
+}
+.fixed-block{
+  width: 100%;
+  /*z-index: 10;*/
+  background-image: linear-gradient(90deg,#442857,#5b2b50);
+}
+.search-bar-container{
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  flex-direction: row;
+  -webkit-box-align: center;
+  align-items: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.city-filter-entry{
+  padding-left: 20px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 14px;
+  height: 14px;
+}
+.search-bar{
+  margin-left: 13px;
+  margin-right: 12px;
+  -webkit-box-flex: 1;
+  flex: 1 1;
+  border-radius: 14px;
+  font-size: 12px;
+  line-height: 28px;
+  height: 28px;
+  vertical-align: middle;
+  color: silver;
+  background-color: #f4f4f4;
+  position: relative;
+  padding-left: 34px;
+}
+.bili-icon-search{
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: inline-block;
+}

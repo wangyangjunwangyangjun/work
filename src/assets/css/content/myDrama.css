@@ -1,0 +1,85 @@
+.myDrama{
+  background: rgb(60,60,60);
+}
+.myTop1{
+  width: 100%;
+  color: white;
+}
+.myLeft1{
+  float:left;
+  margin-left: 20px;
+  font-weight: bold;
+  color: white;
+}
+.myRight1{
+  float: right;
+  margin-right: 20px;
+  font-weight: bold;
+  color: white;
+}
+#content2{
+  height: 100px;
+  padding: 5px;
+}
+.myBottomLeft{
+  z-index: 5;
+  font-size: xx-small;
+  color: white;
+  background: #ff8198;
+  padding: 3px;
+  border-radius: 5px;
+  width: 55px;
+}
+.myTopRight{
+  z-index: 5;
+  font-size: xx-small;
+  color: white;
+  background: #ff8198;
+  padding: 3px;
+  border-radius: 5px;
+  width: 55px;
+}
+#lineBlock2{
+  width: 100%;
+  display: flex;
+  margin-left: 3%;
+  padding-top: 10px;
+}
+.blockItem{
+  width: 28%;
+  margin-right: 5%;
+  height: 180px;
+}
+#myItem{
+  height: 120px;
+  font-size: xx-small;
+}
+#myImg{
+  width: 100%;
+  height: 115px;
+  border-radius: 5px;
+}
+.myTitle{
+  text-align: center;
+  font-size: xx-small;
+  color: rgb(150, 150, 150);
+  font-weight: lighter;
+}
+.myLatest{
+  text-align: center;
+  color: rgb(132, 90, 103);
+  font-weight: lighter;
+  font-size: xx-small;
+}
+.myBottomLeft{
+  position: relative;
+  left: 5%;
+  top: -40px;
+  text-align: center;
+}
+.myTopRight{
+  position: relative;
+  left: 55%;
+  top: -130px;
+  text-align: center;
+}

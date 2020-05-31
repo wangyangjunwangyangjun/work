@@ -1,0 +1,24 @@
+.nav-bar {
+  display: flex;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  box-shadow: 0 1px 1px rgba(100,100,100,.1);
+  color: white;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  background: rgb(60, 60, 60);
+}
+
+.left, .right {
+  width: 60px;
+  font-size: xx-small;
+  color: white;
+
+}
+.center {
+  flex: 1;
+  font-weight: bold;
+  color: white;
+}

@@ -1,0 +1,38 @@
+#loginPic{
+  width: 100%;
+  height: 130px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+#location{
+  width: 70%;
+}
+.InfoLocation{
+  margin:15px;
+}
+.tel{
+  width: 43%;
+}
+.LoginInput{
+  display: inline-block;
+  width: 100%;
+  height: 860px;
+  background: rgba(0,0,0,0.6);
+}
+#sendPassword{
+  margin-left: 15px;
+}
+.center{
+  display: block;
+  margin: 2px auto;
+  width: 70%;
+  font-size: xx-small;
+  text-align: center;
+}
+#login{
+  width: 80%;
+  color: white;
+  display: block;
+  margin: 30px auto 20px auto;
+  background: rgb(60,60,60);
+}

@@ -1,0 +1,45 @@
+.muTab{
+  margin: 0 30px;
+  background: rgb(60,60,60);
+  color: white;
+}
+.friend{
+  margin-top: 56px;
+  height: 100%;
+  width: 100%;
+  background: rgb(53,53,53);
+  color: white;
+}
+.friend .item {
+  background: rgb(60,60,60);
+  color: white;
+}
+.friend .gap {
+  position: relative;
+  height: 2vh;
+  background: rgb(60,60,60);
+  color: white;
+}
+
+.friend .gap-1 {
+  height: 1vh
+}
+
+.friend .tab {
+  height: 12vh;
+  overflow: hidden;
+  background: rgb(60,60,60);
+  color: white;
+}
+
+.friend .tab .mu-tabs {
+  background: rgb(60,60,60);
+  font-size: xx-small;
+  font-weight: lighter;
+}
+.rightFloat{
+  color: white;
+}
+.myListItem{
+  color: white;
+}

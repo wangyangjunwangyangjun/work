@@ -1,0 +1,18 @@
+.banner-item{
+  padding: 4px;
+  display: inline-flex;
+  width: 100%;
+  flex-wrap: wrap;
+  color: white;
+  font-weight: lighter;
+  font-size: xx-small;
+  text-align: center;
+}
+.myitem{
+  margin:5px 15px;
+  display: inline-block;
+
+}
+.item-info{
+  font-size: xx-small;
+}

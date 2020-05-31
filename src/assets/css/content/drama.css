@@ -1,0 +1,88 @@
+.wrapper1{
+  justify-content: center;
+  width: 100%;
+  background: rgb(60,60,60);
+}
+.classify {
+  height: 25%;
+  display: flex;
+  padding-bottom: 3%;
+  color: #fff;
+  font-weight: bold;
+  justify-content: center;
+  width: 100%;
+}
+.classify span {
+  width: 30%;
+  height: 3rem;
+  line-height: 3rem;
+  text-align: center;
+}
+.classify .drama {
+  margin-right: 2%;
+  background-color: #FFA501;
+}
+.classify .showlist {
+  margin-right: 2%;
+  background-color: #FF6666;
+}
+.classify .index {
+  background-color: #20C0FB;
+}
+
+.totalRecommond {
+  margin-top: 20px;
+  margin-bottom: 0.6rem;
+  padding: 0 5px;
+  height: 30px;
+}
+.totalRecommond > img {
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+.totalRecommond .recommond {
+  font-weight: bold;
+  margin-left: 10px;
+  color: white;
+}
+.moreFan {
+  float: right;
+  margin-top: 0.45rem;
+  margin-right: 22px;
+  font-weight: bold;
+  color: white;
+}
+
+.show-content {
+  justify-content: center;
+  background: rgb(60, 60, 60);
+  display: inline-flex;
+  width: 100%;
+  flex-wrap: wrap;
+  color: white;
+  font-weight: lighter;
+}
+.show-content .showItem1 {
+  padding: 3px;
+  width: 180px;
+  height: 15.5rem;
+  margin-right: 2%;
+  margin-bottom: 10px;
+  background-color: rgb(43,43,43);
+  border-radius: 5px;
+  border: 1px solid rgb(111, 77, 93);
+  text-align: center;
+}
+.show-content .showItem1 > img {
+  width: 100%;
+  height: 70%;
+  background-size: cover;
+  padding: 2px;
+}
+.show-content .showItem1 .showInfo {
+  padding: 5px;
+}
+.show-content .showItem1 .showInfo .showNum {
+  color: rgb(255, 159, 52);
+  font-size: xx-small;
+}

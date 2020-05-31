@@ -1,0 +1,39 @@
+#muTabs{
+  height: 100%;
+  z-index: 0;
+  background: rgb(55, 55, 55);
+  border-radius: 6px;
+  color: white;
+  font-size: x-small;
+  font-weight: lighter;
+}
+#lineBarNav{
+  margin-top: 57px;
+  width: 100%;
+}
+#lineBarNav2{
+  width: 100%;
+}
+.demo-text {
+  padding: 5px;
+  background: rgb(55, 55, 55);
+  color: pink;
+}
+.banner-item{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.item{
+  font-size: xx-small;
+}
+.lineBlock{
+
+}
+.moreShow{
+  margin-top: 10px;
+  width: 100%;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
