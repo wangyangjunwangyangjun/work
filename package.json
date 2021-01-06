@@ -13,7 +13,7 @@
     "@capacitor/cli": "^1.0.0-alpha.38",
     "@capacitor/core": "^1.0.0-alpha.38",
     "amfe-flexible": "^2.2.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "color-name": "latest",
     "element-ui": "^2.13.1",
