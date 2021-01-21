@@ -24,7 +24,7 @@
     "muse-ui": "^3.0.2",
     "register-service-worker": "^1.7.1",
     "sass": "^1.26.5",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socketio": "^1.0.0",
     "stylus": "^0.54.7",
     "vue": "^2.5.21",
