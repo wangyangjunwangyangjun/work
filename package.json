@@ -17,7 +17,7 @@
     "better-scroll": "^1.15.2",
     "color-name": "latest",
     "element-ui": "^2.13.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "js-cookie": "^2.2.1",
     "mint-ui": "^2.2.13",
